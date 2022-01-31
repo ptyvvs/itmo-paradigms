@@ -81,7 +81,7 @@
 Дополнительно реализовать поддержку функций:
 - `ArcTan (atan)` – арктангенс, `1256 atan` примерно равно `1.57`;
 - `ArcTan2 (atan2)` – арктангенс, `841 540 atan2` примерно равно `1`;
-## [6. Обработка ошибок на JavaScript](https://github.com/ptyvvs/itmo-paradigms/blob/main/javascript-solutions/objectExpression.js)
+## 6. [Обработка ошибок на JavaScript](https://github.com/ptyvvs/itmo-paradigms/blob/main/javascript-solutions/objectExpression.js)
 ##### Условия
 Добавьте в предыдущее домашнее задание функцию `parsePrefix(string)`, разбирающую выражения, задаваемые записью вида `(- (* 2 x) 3)`. Если разбираемое выражение некорректно, метод `parsePrefix` должен бросать человеко-читаемое сообщение об ошибке.<br/>
 Добавьте в предыдущее домашнее задание метод `prefix()`, выдающий выражение в формате, ожидаемом функцией `parsePrefix`.
